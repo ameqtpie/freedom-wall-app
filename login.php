@@ -40,7 +40,7 @@
                             </div>
 
                             <div id="register-link" class=" linkss col-12 text-center mt-1">
-                              <a href="#" >Dont Have Account? Click Here</a>
+                              <a href="#" >register</a>
                             </div>
                         </form>
                     </div>
