@@ -37,7 +37,7 @@
 <main>
     <div class="container d-flex flex-column align-items-center">
         <h2>About</h2>
-        <p class="text-center">"Maraming nangyayaring kababalaghan sa ating mundo. Lalong lalo na dito sa Pilipinas. Ang mundo ay isang malaking Quiapo. Maraming snatcher, maaagawan ka. Lumaban ka! Panahon na para i-pack up mo na 'yang Lucy Torres mo, ilabas mo na diyan si Gretchen Barretto. Anak ako na ang bahala sa red stilletos mo!"  </p>
+        <p class="text-center">"Maraming nangyayaring kababalaghan sa ating mundo. Lalong lalo na dito sa Pilipinas. Ang mundo ay isang malaking Quiapo. Maraming snatcher, maaagawan ka. Lumaban ka! Panahon na para i-pack up mo na 'yang Lucy Torres mo, ilabas mo na diyan si Gretchen Barretto. Anak ako na ang bahala sa red stilletos mo!"</p>
     </div>
 </main>
 
