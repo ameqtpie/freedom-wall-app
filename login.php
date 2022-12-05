@@ -40,29 +40,15 @@
                             </div>
 
                             <div id="register-link" class=" linkss col-12 text-center mt-1">
-                              <a href="#" >register</a>
+                              <a href="#" >Dont Have Account? Click Here</a>
                             </div>
+                           
                         </form>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <script src="JS/script.js"></script>
 
