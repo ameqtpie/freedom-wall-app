@@ -34,6 +34,7 @@
             header('Location: walls.php');
         }else {
             echo 'Error: '. mysqli_error($conn);
+            header('Location: index.php');
         }
     }
  }
